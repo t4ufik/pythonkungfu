@@ -4,11 +4,12 @@
 mystring = "Hello"
 
 # FLoating number
-myfloat = float(10.0)
+myfloat = float(10.13)
 
 # Integer
 myint = 20
 
-print "String: %s" % mystring
-print "Float: %d" % myfloat
-print "Integer: %d" % myint
+# Jumlah
+jumlah = float(myfloat + myint);
+
+print "String: %s\nFloat: %d\nInteger: %d\nJumlah: %s" % (mystring, myfloat, myint, jumlah);
