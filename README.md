@@ -1,4 +1,4 @@
-# Python Kungfu Class by Krisan Alfa Timur
+# Python Kungfu Class by krisanalfa
 
 ![alt text](http://www.python.org/community/logos/python-powered-w-200x80.png "Python")
 
