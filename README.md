@@ -16,3 +16,7 @@ This repo is dedicated for t193r Community. If you want to join with this class,
 
 Copyright:
 (t193r Community / PT. Sagara Xinix Solusitama)
+
+cracking
+coding
+
