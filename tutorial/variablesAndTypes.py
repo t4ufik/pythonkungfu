@@ -9,7 +9,14 @@ myfloat = float(10.13)
 # Integer
 myint = 20
 
-# Jumlah
-jumlah = float(myfloat + myint);
+# addition
+add = float(myfloat + myint)
 
-print "String: %s\nFloat: %d\nInteger: %d\nJumlah: %s" % (mystring, myfloat, myint, jumlah);
+print "String: %s" % mystring
+print "Float: %d" % myfloat
+print "Integer: %d" % myint
+print "addition: %d" % add
+# Jumlah
+jumlah = float(myfloat + myint)
+
+print "String: %s\nFloat: %d\nInteger: %d\nJumlah: %s" % (mystring, myfloat, myint, jumlah)
